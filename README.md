@@ -1,10 +1,24 @@
-# 🛒 E-Commerce Sales Analysis — Python + Power BI
+```md
+## 📊 Power BI Dashboard
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
-![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-orange)
-![Prophet](https://img.shields.io/badge/Forecast-Prophet-green)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+<p align="center">
+  <img src="dashboard/dashboard_preview.png" width="100%">
+</p>
+```
+
+```md
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/doc/)
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)](https://learn.microsoft.com/en-us/power-bi/)
+
+[![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-orange)](https://scikit-learn.org/stable/documentation.html)
+
+[![Prophet](https://img.shields.io/badge/Forecast-Prophet-green)](https://facebook.github.io/prophet/docs/quick_start.html)
+
+[![Status](https://img.shields.io/badge/Status-Complete-brightgreen)](https://github.com/hamza8262926282)
+```
+
+
 
 > End-to-end data analytics project on the Olist Brazilian E-Commerce dataset.
 > Python handles data cleaning, RFM segmentation, KMeans clustering, and 90-day
@@ -57,13 +71,16 @@
 ---
 
 ## ⚙️ Tech Stack
+```md
+| Category | Technologies |
+|----------|--------------|
+| Programming | Python, Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn, Power BI |
+| Machine Learning | Scikit-learn, KMeans, StandardScaler |
+| Forecasting | Facebook Prophet |
+| Data Processing | ETL, EDA, Feature Engineering |
+```
 
-```
-Python          Pandas · NumPy · Matplotlib · Seaborn
-Machine Learning  Scikit-learn (KMeans, StandardScaler) · Facebook Prophet
-Business Intelligence  Microsoft Power BI (DAX, Interactive Dashboards)
-Data Processing   EDA · ETL · IQR Outlier Removal · Feature Engineering
-```
 
 ---
 
@@ -97,8 +114,8 @@ ecommerce-sales-analysis-powerbi/
 ---
 
 ## 👤 Author
-
-**Muhammad Hamza Awan** — Data Analyst | Data Scientist | ML Engineer
+**Muhammad Hamza Awan**  
+Data Analyst • Data Scientist • Machine Learning Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-hamza-b83748241/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/hamza8262926282)
