@@ -1,12 +1,11 @@
-```md
 ## 📊 Power BI Dashboard
 
 <p align="center">
   <img src="dashboard/dashboard_preview.png" width="100%">
 </p>
-```
 
-```md
+
+
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/doc/)
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)](https://learn.microsoft.com/en-us/power-bi/)
@@ -16,7 +15,7 @@
 [![Prophet](https://img.shields.io/badge/Forecast-Prophet-green)](https://facebook.github.io/prophet/docs/quick_start.html)
 
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen)](https://github.com/hamza8262926282)
-```
+
 
 
 
