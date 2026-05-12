@@ -70,7 +70,7 @@
 ---
 
 ## ⚙️ Tech Stack
-```md
+
 | Category | Technologies |
 |----------|--------------|
 | Programming | Python, Pandas, NumPy |
@@ -78,7 +78,7 @@
 | Machine Learning | Scikit-learn, KMeans, StandardScaler |
 | Forecasting | Facebook Prophet |
 | Data Processing | ETL, EDA, Feature Engineering |
-```
+
 
 
 ---
